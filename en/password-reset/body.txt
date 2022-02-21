@@ -1,3 +1,3 @@
 Reset Password
 Use this link to reset your password:
-${serverUrl}/verify?&ticket=${ticket}&type=passwordReset&redirectTo=${redirectTo}
+${serverUrl}/verify?&ticket=${ticket}&type=passwordReset&redirectTo=${redirectTo}/resetPassword
